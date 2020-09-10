@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Medium 1",
+    "summary":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+    "image":
+      "images/pic01.jpg",
+    "link": "https://www.google.com"
+  },
+  {
+    "title": "Medium 2",
+    "summary":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+    "image":
+      "images/pic02.jpg",
+    "link": "#"
+  },
+  {
+    "title": "Medium 3",
+    "summary":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+    "image":
+    "images/pic03.jpg",
+    "link": "#"
+  },
+  {
+    "title": "Medium 4",
+    "summary":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+    "image":
+    "images/pic04.jpg",
+    "link": "#"
+  },
+  {
+    "title": "Medium 5",
+    "summary":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+    "image":
+    "images/pic05.jpg",
+    "link": "https://www.google.com"
+  }
+]
