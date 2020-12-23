@@ -1,5 +1,21 @@
 [
   {
+    "title": "Zero to the Power of Zero (Part 1)",
+    "summary":
+      "00 is actually 1, indefinite or undefined?",
+    "image":
+      "images/IG1.png",
+    "link": "https://www.instagram.com/p/CDlTuursH1D/"
+  },
+  {
+    "title": "Matematika di balik Alice in Wonderland",
+    "summary":
+      "Alice In Wonderland is a story written by an English writer and mathematician, Lewis Caroll.",
+    "image":
+      "images/IG1.png",
+    "link": "https://www.instagram.com/p/CCvGezaMrtw/"
+  },
+  {
     "title": "An Introduction to Catastrophe Insurance",
     "summary":
       "Insurance is a commonly used product to help minimize financial losses caused by disasters. Now, let us get to know catastrophe insurance, one of the many types of insurance, starting with its brief introduction.",
@@ -37,7 +53,7 @@
       "Data Science Talk with Rangga and Vinson",
     "image":
       "images/Picture4.png",
-    "link": "bit.ly/AfterSchoolHours"
+    "link": "https://bit.ly/AfterSchoolHours"
   },
   {
     "title": "Eps 3 - DS? (Part 1)",
@@ -45,7 +61,7 @@
       "Data Science Talk with Rangga and Vinson",
     "image":
       "images/Picture3.png",
-    "link": "bit.ly/AfterSchoolHours"
+    "link": "https://bit.ly/AfterSchoolHours"
   },
   {
     "title": "Eps 2 - MythBusters",
@@ -53,7 +69,7 @@
       "Campus Myths? Are they real?",
     "image":
       "images/Picture2.png",
-    "link": "bit.ly/AfterSchoolHours"
+    "link": "https://bit.ly/AfterSchoolHours"
   },
   {
     "title": "Eps 1 - Semburan Air Maut",
@@ -61,6 +77,6 @@
       "A conversation about two college student inside the world of mathematics",
     "image":
       "images/Picture1.png",
-    "link": "bit.ly/AfterSchoolHours"
+    "link": "https://bit.ly/AfterSchoolHours"
   }
 ]
