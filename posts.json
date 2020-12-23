@@ -1,42 +1,66 @@
 [
   {
-    "title": "Medium 1",
+    "title": "An Introduction to Catastrophe Insurance",
     "summary":
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
-    "image":
-      "images/pic01.jpg",
-    "link": "https://www.google.com"
-  },
-  {
-    "title": "Medium 2",
-    "summary":
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+      "Insurance is a commonly used product to help minimize financial losses caused by disasters. Now, let us get to know catastrophe insurance, one of the many types of insurance, starting with its brief introduction.",
     "image":
       "images/pic02.jpg",
-    "link": "#"
+    "link": "https://medium.com/fourier-media/an-introduction-to-catastrophe-insurance-434e49051ac3"
   },
   {
-    "title": "Medium 3",
+    "title": "Finance’s Enemy: The Black Swan",
     "summary":
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+      "You have probably heard of a black swan. However, black swans were considered non-existent... until they are not. Find out what the Black Swan is in the world of Finance in this article.",
     "image":
-    "images/pic03.jpg",
-    "link": "#"
+      "images/pic02.jpg",
+    "link": "https://medium.com/fourier-media/finances-enemy-the-black-swan-d901b30d1051"
   },
   {
-    "title": "Medium 4",
+    "title": "The Role of Mathematical Models in Indonesia’s COVID-19 Policies",
     "summary":
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+      "An interview with Dr. Nuning Nuraini, who was deeply involved in the governmental response of COVID-19, as part of the governmental COVID-19 Accelerated Task Force.",
     "image":
-    "images/pic04.jpg",
-    "link": "#"
+      "images/pic02.jpg",
+    "link": "https://medium.com/fourier-media/the-role-of-mathematical-models-in-indonesian-covid-19-policy-212067d20493"
   },
   {
-    "title": "Medium 5",
+    "title": "COVID-19 Chart Crimes : What’s the Problem with Our Data Visualization?",
     "summary":
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore esse atque nemo libero dolor eos!",
+      "The pandemic has yet to reach its end, and people have the need to be kept updated. However, not all information seems to be anyone-friendly. Check this out to know what to avoid when serving data, especially to a wider, general audience.",
     "image":
-    "images/pic05.jpg",
-    "link": "https://www.google.com"
+      "images/pic02.jpg",
+    "link": "https://medium.com/fourier-media/covid-19-chart-crimes-b9765194ef6c"
+  },
+  {
+    "title": "Eps 4 - DS? (Part 2)",
+    "summary":
+      "Data Science Talk with Rangga and Vinson",
+    "image":
+      "images/Picture4.png",
+    "link": "bit.ly/AfterSchoolHours"
+  },
+  {
+    "title": "Eps 3 - DS? (Part 1)",
+    "summary":
+      "Data Science Talk with Rangga and Vinson",
+    "image":
+      "images/Picture3.png",
+    "link": "bit.ly/AfterSchoolHours"
+  },
+  {
+    "title": "Eps 2 - MythBusters",
+    "summary":
+      "Campus Myths? Are they real?",
+    "image":
+      "images/Picture2.png",
+    "link": "bit.ly/AfterSchoolHours"
+  },
+  {
+    "title": "Eps 1 - Semburan Air Maut",
+    "summary":
+      "A conversation about two college student inside the world of mathematics",
+    "image":
+      "images/Picture1.png",
+    "link": "bit.ly/AfterSchoolHours"
   }
 ]
