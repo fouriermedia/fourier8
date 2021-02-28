@@ -1,82 +1,110 @@
 [
-  {
-    "title": "Zero to the Power of Zero (Part 1)",
-    "summary":
-      "00 is actually 1, indefinite or undefined?",
-    "image":
-      "images/IG1.png",
-    "link": "https://www.instagram.com/p/CDlTuursH1D/"
-  },
-  {
-    "title": "Matematika di balik Alice in Wonderland",
-    "summary":
-      "Alice In Wonderland is a story written by an English writer and mathematician, Lewis Caroll.",
-    "image":
-      "images/IG1.png",
-    "link": "https://www.instagram.com/p/CCvGezaMrtw/"
-  },
-  {
-    "title": "An Introduction to Catastrophe Insurance",
-    "summary":
-      "Insurance is a commonly used product to help minimize financial losses caused by disasters. Now, let us get to know catastrophe insurance, one of the many types of insurance, starting with its brief introduction.",
-    "image":
-      "images/pic02.jpg",
-    "link": "https://medium.com/fourier-media/an-introduction-to-catastrophe-insurance-434e49051ac3"
-  },
-  {
-    "title": "Finance’s Enemy: The Black Swan",
-    "summary":
-      "You have probably heard of a black swan. However, black swans were considered non-existent... until they are not. Find out what the Black Swan is in the world of Finance in this article.",
-    "image":
-      "images/pic02.jpg",
-    "link": "https://medium.com/fourier-media/finances-enemy-the-black-swan-d901b30d1051"
-  },
-  {
-    "title": "The Role of Mathematical Models in Indonesia’s COVID-19 Policies",
-    "summary":
-      "An interview with Dr. Nuning Nuraini, who was deeply involved in the governmental response of COVID-19, as part of the governmental COVID-19 Accelerated Task Force.",
-    "image":
-      "images/pic02.jpg",
-    "link": "https://medium.com/fourier-media/the-role-of-mathematical-models-in-indonesian-covid-19-policy-212067d20493"
-  },
-  {
-    "title": "COVID-19 Chart Crimes : What’s the Problem with Our Data Visualization?",
-    "summary":
-      "The pandemic has yet to reach its end, and people have the need to be kept updated. However, not all information seems to be anyone-friendly. Check this out to know what to avoid when serving data, especially to a wider, general audience.",
-    "image":
-      "images/pic02.jpg",
-    "link": "https://medium.com/fourier-media/covid-19-chart-crimes-b9765194ef6c"
-  },
-  {
-    "title": "Eps 4 - DS? (Part 2)",
-    "summary":
-      "Data Science Talk with Rangga and Vinson",
-    "image":
-      "images/Picture4.png",
-    "link": "https://bit.ly/AfterSchoolHours"
-  },
-  {
-    "title": "Eps 3 - DS? (Part 1)",
-    "summary":
-      "Data Science Talk with Rangga and Vinson",
-    "image":
-      "images/Picture3.png",
-    "link": "https://bit.ly/AfterSchoolHours"
-  },
-  {
-    "title": "Eps 2 - MythBusters",
-    "summary":
-      "Campus Myths? Are they real?",
-    "image":
-      "images/Picture2.png",
-    "link": "https://bit.ly/AfterSchoolHours"
-  },
-  {
-    "title": "Eps 1 - Semburan Air Maut",
-    "summary":
-      "A conversation about two college student inside the world of mathematics",
-    "image":
-      "images/Picture1.png",
-    "link": "https://bit.ly/AfterSchoolHours"
-  }
+   {
+      "title":"Eps 1 - Semburan Air Maut",
+      "summary":"A conversation about two college student inside the world of mathematics,14/07/20",
+      "link":"bit.ly/AfterSchoolHours",
+      "image":"images/pic01"
+   },
+   {
+      "title":"Matematika di balik Alice in Wonderland",
+      "summary":"Alice In Wonderland is a story written by an English writer and mathematician, Lewis Caroll. Since the story was written by a mathematician, many mathematical concepts are implied in the story. Find out what math concepts are hidden in the Alice In Wonderland story",
+      "link":"https://www.instagram.com/p/CCvGezaMrtw/",
+      "image":"images/pic02"
+   },
+   {
+      "title":"COVID-19 Chart Crimes : What\u2019s the Problem with Our Data Visualization?",
+      "summary":"The pandemic has yet to reach its end, and people have the need to be kept updated. However, not all information seems to be anyone-friendly. Check this out to know what to avoid when serving data, especially to a wider, general audience.",
+      "link":"https://medium.com/fourier-media/covid-19-chart-crimes-b9765194ef6c",
+      "image":"images/pic03"
+   },
+   {
+      "title":"Dosa Grafik COVID-19: Apa yang Salah dengan Visualisasi Data Kita Saat ini?",
+      "summary":"Versi Bahasa Indonesia dari artikel \u201cCOVID-19 Chart Crimes : What\u2019s the Problem with Our Data Visualization?\u201d",
+      "link":"https://medium.com/fourier-media/dosa-grafik-covid-19-aa286299ad6",
+      "image":"images/pic04"
+   },
+   {
+      "title":"The Role of Mathematical Models in Indonesia\u2019s COVID-19 Policies",
+      "summary":"An interview with Dr. Nuning Nuraini, who was deeply involved in the governmental response of COVID-19, as part of the governmental COVID-19 Accelerated Task Force.",
+      "link":"https://medium.com/fourier-media/the-role-of-mathematical-models-in-indonesian-covid-19-policy-212067d20493",
+      "image":"images/pic05"
+   },
+   {
+      "title":"Peran Pemodelan Matematika Dalam Penanganan COVID-19 di Indonesia",
+      "summary":"Versi Bahasa Indonesia dari artikel \u201cThe Role of Mathematical Models in Indonesia\u2019s COVID-19 Policies.\u201d",
+      "link":"https://medium.com/fourier-media/peran-pemodelan-matematika-dalam-penanganan-covid-19-di-indonesia-494624ecbd0",
+      "image":"images/pic06"
+   },
+   {
+      "title":"Zero to the Power of Zero (Part 1)",
+      "summary":"0 divided 0 is actually 1, indefinite or undefined?",
+      "link":"https://www.instagram.com/p/CDlTuursH1D/",
+      "image":"images/pic07"
+   },
+   {
+      "title":"Zero to the Power of Zero (Part 2)",
+      "summary":"0 divided 0 is actually 1, indefinite or undefined?",
+      "link":"https://www.instagram.com/p/CDlT3c5MEJX/",
+      "image":"images/pic08"
+   },
+   {
+      "title":"Eps 2 - MythBusters",
+      "summary":"Campus Myths? Are they real?",
+      "link":"bit.ly/AfterSchoolHours",
+      "image":"images/pic09"
+   },
+   {
+      "title":"Tokoh Matematika asal Indonesia",
+      "summary":"Introducing Dr. Yogi Ahmad Erlangga, who managed to find a numerical method as an alternative solution to solve the Helmholtz equation up to 100x faster",
+      "link":"https://www.instagram.com/p/CEWTi62sdCE/",
+      "image":"images/pic10"
+   },
+   {
+      "title":"Finance\u2019s Enemy: The Black Swan",
+      "summary":"You have probably heard of a black swan. However, black swans were considered non-existent... until they are not. Find out what the Black Swan is in the world of Finance in this article.",
+      "link":"https://medium.com/fourier-media/finances-enemy-the-black-swan-d901b30d1051",
+      "image":"images/pic11"
+   },
+   {
+      "title":"Musuh Keuangan: Black Swan",
+      "summary":"Versi Bahasa Indonesia dari artikel \u201cFinance\u2019s Enemy: The Black Swan.\u201d",
+      "link":"https://medium.com/fourier-media/musuh-keuangan-black-swan-85568e0b4288",
+      "image":"images/pic01"
+   },
+   {
+      "title":"Eps 3 - DS? (Part 1),09/09/20",
+      "summary":"Data Science Talk with Rangga and Vinson",
+      "link":"bit.ly/AfterSchoolHours",
+      "image":"images/pic02"
+   },
+   {
+      "title":"Batal Bunuh Diri karena Matematika, ",
+      "summary":"Paul Wolfskehl, a German mathematician who had planned to end his life, but a few hours before his \"suicide time,\" he was immersed in his thoughts about proving Fermat's Last Theorem, and ended up missed his suicide time",
+      "link":"https://www.instagram.com/p/CE_ACh1MkEc/",
+      "image":"images/pic03"
+   },
+   {
+      "title":"Matematika dalam Ilmu Forensik",
+      "summary":"Timing the victim's death can simplify the investigation process. It turns out that calculus plays an important role in estimating the time of death. Forensic experts determine the time of death of victims using Newton's Law of Cooling",
+      "link":"https://www.instagram.com/p/CFllYdXsoWu/",
+      "image":"images/pic04"
+   },
+   {
+      "title":"An Introduction to Catastrophe Insurance",
+      "summary":"Insurance is a commonly used product to help minimize financial losses caused by disasters. Now, let us get to know catastrophe insurance, one of the many types of insurance, starting with its brief introduction.",
+      "link":"https://medium.com/fourier-media/an-introduction-to-catastrophe-insurance-434e49051ac3",
+      "image":"images/pic05"
+   },
+   {
+      "title":"Mengenali Asuransi Risiko Bencana",
+      "summary":"Versi Bahasa Indonesia dari artikel \u201cAn introduction to Catastrophe Insurance.\u201d",
+      "link":"https://medium.com/fourier-media/mengenali-asuransi-risiko-bencana-89d19e5b7046",
+      "image":"images/pic06"
+   },
+   {
+      "title":"Eps 4 - DS? (Part 2)",
+      "summary":"Data Science Talk with Rangga and Vinson",
+      "link":"bit.ly/AfterSchoolHours",
+      "image":"images/pic07"
+   }
 ]
