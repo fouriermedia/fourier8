@@ -114,7 +114,7 @@
       
       const lists = fetch('/posts.json')
         .then(res => res.json())
-        .then(data => data.map(da => template(da['title'], da['image'], da['link'], da['summary'])))
+        .then(data => data.slice(0).reverse().map(da => template(da['title'], da['image'], da['link'], da['summary'])))
         .then(templates => templates.forEach(element => {
           one.innerHTML += element
         }))
